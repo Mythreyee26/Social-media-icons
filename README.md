@@ -1,2 +1,3 @@
 # Social-media-icons
-The front-end of this website has an aesthetic design for icons for social media links.
+A front-end Page of aesthetic design for social media links.
+With hover on icons.
